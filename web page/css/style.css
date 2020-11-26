@@ -57,17 +57,10 @@ body{
 
 /* Home Page Css */
 .design-image{
-    /* display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 5px;
-    grid-row-gap: 2px;
-    padding: 5px; */
-    /* width: 100px; */
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-around;
     align-content: space-around;
-  /* height: 600px; */
 }
 .title{
     text-align: center;
